@@ -1,6 +1,8 @@
 # JulianCalendar_To_ModernCalendar
 A script made by a beginner for fun. Aim is to convert roman dates in modern dates.
 
+Eg: the 3th before the Nones of September under the second consulate of C. Julius Caesar is on the 3 September 44 B.C.
+
 1° Choose a roman date coming from the Julian Calendar : a specific day before the feast*, a feast (Kalendes, Ides or Nones), and a month (in English or in Latin).
 
 Eg: 3 days before the Nones of September
