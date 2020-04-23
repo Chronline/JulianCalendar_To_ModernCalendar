@@ -22,4 +22,4 @@ Eg: the second consulate of C. Julius Caesar
 
 **4° The script will run with or without the date from the consul database. (between parenthese is what is added if you run the consul database)
 
-Eg: the 3th before the None of September (under the second consulate of C. Julius Caesar) is on the 3 September (44 B.C.).
+Eg: the 3th before the Nones of September (under the second consulate of C. Julius Caesar) is on the 3 September (44 B.C.).
