@@ -3,7 +3,7 @@ A script made by a beginner for fun. Aim is to convert roman dates in modern dat
 
 1° Choose a roman date coming from the Julian Calendar : a specific day before the feast*, a feast (Kalendes, Ides or Nones), and a month (in English or in Latin).
 
-Eg: 3 before the Nones of September
+Eg: 3 days before the Nones of September
 
 *Please note that romans include the day in the counting. 1st kalendes is the day of kalendes itself. 2nd Kal is the day before.
 
