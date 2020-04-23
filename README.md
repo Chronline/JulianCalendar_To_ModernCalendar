@@ -14,9 +14,8 @@ If No, go to 4°
 Then, you have to enter the number of times he was consulate.
 Eg: the second consulate of C. Julius Caesar
 
-* The database is based on https://en.wikipedia.org/wiki/List_of_Roman_consuls (consulted on the 23 april 2020)
-
-** Due to a lack of time to check very data, mistakes can happen in case homonyms existed. 
+*The database is based on https://en.wikipedia.org/wiki/List_of_Roman_consuls (consulted on the 23 april 2020)
+*Due to a lack of time to check every data, mistakes can happen in case homonyms existed. 
 
 4° The script will run with or without the date from the consul database. (between parenthese is what is added if you run the consul database)
 Eg: the 3th before the None of September (under the second consulate of C. Julius Caesar) is on the 3 September (44 B.C.).
